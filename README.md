@@ -1,2 +1,1 @@
-# Brand Builder Kit
-Website untuk membantu membangun identitas brand digital.
+Brand Builder Kit adalah web untuk membantu membuat identitas brand secara cepat dan mudah. Pengguna dapat memilih kategori bisnis, gaya, dan logo, lalu melihat hasilnya dalam bentuk mockup dan feed media sosial. Cocok untuk pemula maupun pelaku usaha agar branding terlihat profesional.
